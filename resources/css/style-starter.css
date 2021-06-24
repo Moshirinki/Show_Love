@@ -11771,6 +11771,9 @@ a.text-dark:focus {
   content: "";
 }
 
+.fa-instagram-square:before {
+  content: "";
+}
 .fa-facebook-square:before {
   content: "";
 }
@@ -11861,6 +11864,10 @@ a.text-dark:focus {
 }
 
 .fa-twitter:before {
+  content: "";
+}
+
+.fa-instagram:before {
   content: "";
 }
 
@@ -16524,6 +16531,7 @@ p.count-text {
 }
 
 .w3l-team .social-icons-section a.fac,
+.w3l-team .social-icons-section a.instagram,
 .w3l-team .social-icons-section a.twitter,
 .w3l-team .social-icons-section a.google {
   background: #fff;
